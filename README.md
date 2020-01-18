@@ -1,4 +1,4 @@
-# ProductManger
+# ProductManager
 
 This is a basic CRUD application built with the Spring boot, MySQL, and ThymeLeaf.
 
